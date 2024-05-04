@@ -18,10 +18,10 @@ utilized to evaluate our main LLM, Llama 3 - 8b.
 
 
 
-1)llama2_Inference.ipynb 
+1) llama2_Inference.ipynb 
 This is the code to generate responses of recently launched llama 3-8b on a subset of the TruthFulQA dataset. 
 
-2)Dataset_Creation.ipynb 
+2) Dataset_Creation.ipynb 
 This is the code for creating the negative sample datasets using one of the state-of-the-art Langauge Model Google's Gemini-1.5-pro. The dataset created has been uploaded on Hugging Face and is publicly available. 
 
 3) NSD_Scores.ipynb
