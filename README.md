@@ -1,9 +1,9 @@
-# Topics_in_AI
+# Blind LLM Truthfulness Assesment(BLTA) :
 This paper aims to propose novel techniques for evaluating the truthfulness of large language models
 (LLMs) without relying on golden answers. We introduce a new metric, the Negative Sample
 Difference (NSD) score, which demonstrates a high correlation with human scores. Our key idea
 is to invert the evaluation problem: while it is difficult to generate correct answers for LLM, it is
-easier to generate set of wrong answers shown.
+easier to generate a set of wrong answers shown.
 
 NSD Technique:
 
